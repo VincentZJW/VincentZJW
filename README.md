@@ -170,8 +170,8 @@ I am open to conversations around **AI**, **Embodied AI**, **Robotics**, **Autom
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN_SLUG/)
-[![Email](https://img.shields.io/badge/Email-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4ECD)](mailto:REPLACE_WITH_YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/vincentzzjw/)
+[![Email](https://img.shields.io/badge/Email-vincentzhou1019%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4ECD)](mailto:vincentzhou1019@gmail.com)
 [![Steam](https://img.shields.io/badge/Steam-eocvincent-0D1117?style=for-the-badge&logo=steam&logoColor=00F5FF)](https://steamcommunity.com/id/eocvincent/)
 [![GitHub](https://img.shields.io/badge/GitHub-VincentZJW-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/VincentZJW)
 
