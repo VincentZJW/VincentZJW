@@ -2,6 +2,10 @@
 
 当前 Profile README 不依赖本地图片即可运行。动态标题、GitHub Stats、Top Languages、Streak Stats 和贡献蛇形图均通过远程 SVG 展示。
 
+当前已使用的本地资产：
+
+- `snowmoon-profile-banner.png`：Profile README 顶部横幅。基于 Snowmoon 电竞照片生成，使用淡粉色留白和轻度虚化处理。
+
 如果后续希望增加个人视觉素材，可以把文件放在本目录，并在仓库根目录的 `README.md` 中引用：
 
 ```markdown
