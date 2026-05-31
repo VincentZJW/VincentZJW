@@ -128,10 +128,11 @@ Outside of work, I enjoy video games, especially titles on **Steam** and **Overw
 
 | Project | Signal | Description |
 | --- | --- | --- |
-| **Embodied AI Daily Automation** | `AI RESEARCH` | Automated Chinese daily intelligence reports covering Embodied AI papers, GitHub projects and industry signals. |
-| **Steam Reviews Sentiment Monitoring** | `NLP / ANALYTICS` | Sentiment monitoring and trend analysis for player reviews and product feedback. |
-| **Urban Travel Patterns in Victoria** | `DATA STORYTELLING` | Data-driven analysis of urban mobility and travel behavior across Victoria. |
-| **Air Quality Sensor Analysis** | `SENSOR DATA` | Exploratory analysis and visualization of environmental sensor data. |
+| [**embodied_AI_daily**](https://github.com/VincentZJW/embodied_AI_daily) | `AI RESEARCH` | Automated Chinese daily intelligence reports covering Embodied AI papers, GitHub projects, industry signals and mini-program export data. |
+| [**steam-reviews-analysis**](https://github.com/VincentZJW/steam-reviews-analysis) | `GAMING ANALYTICS` | R-based analysis of Steam game reviews collected from the official Steam platform, with data updated through April 2026. |
+| [**transport_analysis**](https://github.com/VincentZJW/transport_analysis) | `R / SHINY` | Interactive dashboard exploring urban travel behavior in Victoria using VISTA data, household characteristics and travel mode patterns. |
+| [**ltd_forecasting**](https://github.com/VincentZJW/ltd_forecasting) | `TIME SERIES` | Land Transfer Duty forecasting workflow for Victoria using ARIMA, ETS, VAR, VECM and FAVAR models with rolling-origin evaluation. |
+| [**game-package**](https://github.com/VincentZJW/game-package) | `R PACKAGE` | Interactive Blackjack package for R with configurable bets, decks, players and gameplay actions. |
 
 ---
 
