@@ -4,7 +4,7 @@
 
 当前已使用的本地资产：
 
-- `snowmoon-profile-banner.png`：Profile README 顶部横幅。基于 Snowmoon 电竞照片生成，使用淡粉色留白和轻度虚化处理。
+- `snowmoon-profile-banner.png`：Profile README 标题下方横幅。基于 Snowmoon 电竞照片生成，使用淡粉色留白、柔和虚化、低对比度和淡粉色雾化处理，让正文信息更容易阅读。
 
 如果后续希望增加个人视觉素材，可以把文件放在本目录，并在仓库根目录的 `README.md` 中引用：
 

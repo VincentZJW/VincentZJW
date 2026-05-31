@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="./assets/snowmoon-profile-banner.png" width="100%" alt="Snowmoon esports profile banner" />
-
-</div>
-
-<div align="center">
-
 # `> VINCENT_ZHOU // AI_TALENT_INTELLIGENCE`
+
+<img src="./assets/snowmoon-profile-banner.png" width="100%" alt="Snowmoon esports profile banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Associate+Consultant+%40+Leanovation;Embodied+AI+%2F+Robotics+Industry+Research;Talent+Mapping+%2F+Data+Analytics+%2F+Technology+Recruitment;Connecting+AI+Talent+with+the+Future+of+Intelligent+Systems)](https://git.io/typing-svg)
 
